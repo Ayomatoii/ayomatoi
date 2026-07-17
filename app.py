@@ -1,0 +1,2 @@
+"""lab"""
+print("Hello World")
